@@ -1,0 +1,15 @@
+[
+  { "id": 1, "nombre": "Zapatilla adidas run50s roja", "precio": 10000, "img": "assets/zapatilla-adidas-1.jpg" },
+  { "id": 2, "nombre": "Zapatilla de running adidas galaxy 6 negra", "precio": 12000, "img": "assets/zapatilla-adidas-2.jpg" },
+  { "id": 3, "nombre": "Bota adidas mickey niño blanca", "precio": 8000, "img": "assets/zapatilla-adidas-3.jpg" },
+  { "id": 4, "nombre": "Bota converse all star bordo", "precio": 20000, "img": "assets/zapatilla-converse-1.jpg" },
+  { "id": 5, "nombre": "Zapatilla lecoq sportif r500 blanca", "precio": 15000, "img": "assets/zapatilla-lecoq-1.jpg" },
+  { "id": 6, "nombre": "Zapatilla lecoq sportif unisex blanca", "precio": 17000, "img": "assets/zapatilla-lecoq-2.jpg" },
+  { "id": 7, "nombre": "Zapatilla de running asics mujer blanca", "precio": 9000, "img": "assets/zapatillas-asics-1.jpg" },
+  { "id": 8, "nombre": "Zapatilla de running asics mujer negra", "precio": 10000, "img": "assets/zapatillas-asics-2.jpg" },
+  { "id": 9, "nombre": "Botines de futbol nike negro", "precio": 18000, "img": "assets/zapatillas-nike-1.jpg" },
+  { "id": 10, "nombre": "Zapatilla de running nike negra", "precio": 22000, "img": "assets/zapatillas-nike-2.jpg" },
+  { "id": 11, "nombre": "Zapatillas de running nike azules", "precio": 20000, "img": "assets/zapatillas-nike-3.jpg" },
+  { "id": 12, "nombre": "Zapatilla de basquet topper negra", "precio": 10000, "img": "assets/zapatilla-topper-1.jpg" },
+  { "id": 13, "nombre": "Zapatilla de running under armour verde", "precio": 10000, "img": "assets/zapatilla-under-armour-1.jpg" }
+]

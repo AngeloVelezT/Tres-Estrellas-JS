@@ -15,7 +15,7 @@
     <meta property="og:url" content="https://angelovelezt.github.io/PF-Ecommerce-Tres-Estrellas/html/index.html">
     <meta property="og:image" content="https://angelovelezt.github.io/Tres-Estrellas-JS/">
     <meta property="og:description" content="Explora nuestra amplia variedad de productos de la mejor calidad, con todos los talles para hombres, mujeres y niños.">
-    <script src="js/main.js"></script>
+    <script src="js/main.js" defer></script>
 </head>
 <body>
     <header>
@@ -34,8 +34,11 @@
         <section class="calzados">
             <h1>Todos los Productos</h1>
             <div class="productos-grid"></div>
-            <div class="carrito-grid"></div>
             <button class="btn btn-primary" id="verCarritoBtn">Ver Carrito</button>
+        </section>
+        <section class="carrito-container">
+            <h2>Tu Carrito</h2>
+            <div class="carrito-grid"></div>
         </section>
     </main>
     <footer>        
